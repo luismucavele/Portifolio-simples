@@ -1,0 +1,15 @@
+# Ignorar arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar arquivos do Visual Studio Code
+.vscode/
+
+# Ignorar pastas e arquivos temporários
+temp/
+*.log
+
+# Ignorar pastas comuns de projetos
+node_modules/
+dist/
+build/
